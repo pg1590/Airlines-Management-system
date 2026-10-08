@@ -43,6 +43,6 @@ The CLI connects to MySQL on `localhost:3306`.
 
 ## Reports
 
-- `Phase_1.pdf`: requirements and the ER model
-- `Phase_3.pdf` / `24.pdf`: relational model and normalization
-- `README.pdf`: original project notes
+- `Phase_1.pdf`: the mini-world and requirements
+- `Phase_3.pdf`: relational model and normalization
+- `Phase_4_Queries.pdf`: the SQL behind each CLI operation
